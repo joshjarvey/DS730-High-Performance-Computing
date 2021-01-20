@@ -1,0 +1,11 @@
+1)Take the average of all of the wind speeds for March, 2006. Which city had the
+closest wind speed to 8.30 mph?
+
+--------> PQR at 8.303386 MPH <-----------
+
+
+
+2) Take the average of all of the temperatures for 2006. Which city had the closest
+temperature, in fahrenheit, to 49.65.
+
+--------> KLM at 49.648439 degrees F <-----------
